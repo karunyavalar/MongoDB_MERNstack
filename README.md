@@ -1,27 +1,27 @@
-ShopEZ - E-commerce Website
 Project Overview
+
 ShopEZ is an e-commerce platform built to provide a seamless online shopping experience for users. With an easy-to-use interface and secure backend architecture, the platform allows users to browse products, manage their shopping cart, place orders, and make payments securely. The platform is scalable and designed to meet the needs of both small and large online stores.
 
 Table of Contents
-Project Overview
+ Project Overview
+ Features
+ Technologies Used
+ Project Structure
+ Installation
+ Usage
+ Future Enhancements
+ Screenshots
+ ER Diagram
+ Contributors
+ License
 Features
-Technologies Used
-Project Structure
-Installation
-Usage
-Future Enhancements
-Screenshots
-ER Diagram
-Contributors
-License
-Features
-User Registration and Authentication (JWT-based security)
-Product Listings and Search
-Add to Cart / Wishlist
-Order Placement and Order History
-Secure Payment Gateway Integration
-Responsive Design for Mobile and Desktop
-Admin Panel for Product Management
+   User Registration and Authentication (JWT-based security)
+   Product Listings and Search
+   Add to Cart / Wishlist
+   Order Placement and Order History
+   Secure Payment Gateway Integration
+   Responsive Design for Mobile and Desktop
+   Admin Panel for Product Management
 Technologies Used
 Frontend:
 
